@@ -11,14 +11,14 @@
         "isRemovable": true,
         "filePath": "chineseanimal.py",
         "cursor": {
-          "lineNumber": 4,
-          "column": 1
+          "lineNumber": 2,
+          "column": 16
         },
         "config": {
-          "runtime": "python3.8",
+          "runtime": "python3.6",
           "handler": "handler",
           "timeout": 60,
-          "memory": 128,
+          "memory": 320,
           "layers": [],
           "name": "chineseanimal"
         },
@@ -69,7 +69,7 @@
     "platform": "AWS",
     "language": "python",
     "platformRegions": {},
-    "lastSave": 1623533538007
+    "lastSave": 1623534001511
   },
   "VCS_STATE": {
     "provider": "GitHub",

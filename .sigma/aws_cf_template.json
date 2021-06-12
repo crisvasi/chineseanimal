@@ -36,10 +36,10 @@
             "Ref": "lambdaCodeKeyParameter"
           }
         },
-        "MemorySize": 128,
+        "MemorySize": 320,
         "Handler": "chineseanimal.handler",
         "Timeout": 60,
-        "Runtime": "python3.8",
+        "Runtime": "python3.6",
         "Layers": [],
         "TracingConfig": {
           "Mode": "PassThrough"

@@ -1,8 +1,8 @@
 {
   "EDITOR_STATE": {
     "allProjectFiles": {
-      "b9bb850f-8a74-40a8-9f11-b17df0053409": {
-        "id": "b9bb850f-8a74-40a8-9f11-b17df0053409",
+      "cfcc9723-4700-447a-a044-3bd9c8884ad3": {
+        "id": "cfcc9723-4700-447a-a044-3bd9c8884ad3",
         "parent": null,
         "name": "chineseanimal.py",
         "type": "PYTHON_LAMBDA",
@@ -11,7 +11,7 @@
         "isRemovable": true,
         "filePath": "chineseanimal.py",
         "cursor": {
-          "lineNumber": 40,
+          "lineNumber": 4,
           "column": 1
         },
         "config": {
@@ -22,31 +22,24 @@
           "layers": [],
           "name": "chineseanimal"
         },
-        "triggers": [
-          {
-            "resourceName": "alexaSK11f45ac7fec04bb99002f36bc37dd310",
-            "config": {}
+        "triggers": [],
+        "lastUpdated": 1623533469739,
+        "testCases": {
+          "337f718a-3c96-4bde-9313-e7311b4ad1a6": {
+            "id": "337f718a-3c96-4bde-9313-e7311b4ad1a6",
+            "name": "Test event",
+            "functionId": "cfcc9723-4700-447a-a044-3bd9c8884ad3",
+            "event": "{\r\n    \"key1\": \"value1\",\r\n    \"key2\": \"value2\",\r\n    \"key3\": \"value3\"\r\n}",
+            "eventTemplate": "hello-world"
           }
-        ],
-        "lastUpdated": 1623532628316
-      }
-    },
-    "openFiles": [
-      "b9bb850f-8a74-40a8-9f11-b17df0053409"
-    ],
-    "currentFileId": "b9bb850f-8a74-40a8-9f11-b17df0053409",
-    "resources": {
-      "alexaSK11f45ac7fec04bb99002f36bc37dd310": {
-        "name": "alexaSK11f45ac7fec04bb99002f36bc37dd310",
-        "type": "ALEXA",
-        "config": {
-          "type": 1,
-          "verifiedID": true,
-          "skillID": "amzn1.ask.skill.11f45ac7-fec0-4bb9-9002-f36bc37dd310",
-          "applicationID": ""
         }
       }
     },
+    "openFiles": [
+      "cfcc9723-4700-447a-a044-3bd9c8884ad3"
+    ],
+    "currentFileId": "cfcc9723-4700-447a-a044-3bd9c8884ad3",
+    "resources": {},
     "customTemplate": {
       "syntax": "JSON",
       "overrideDefault": false,
@@ -76,7 +69,7 @@
     "platform": "AWS",
     "language": "python",
     "platformRegions": {},
-    "lastSave": 1623532715635
+    "lastSave": 1623533538007
   },
   "VCS_STATE": {
     "provider": "GitHub",

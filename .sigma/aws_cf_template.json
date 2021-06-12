@@ -82,17 +82,6 @@
           ]
         }
       }
-    },
-    "alexaSK11f45ac7fec0chineseanimalPermission": {
-      "Type": "AWS::Lambda::Permission",
-      "Properties": {
-        "Action": "lambda:InvokeFunction",
-        "FunctionName": {
-          "Ref": "chineseanimal"
-        },
-        "Principal": "alexa-appkit.amazon.com",
-        "EventSourceToken": "amzn1.ask.skill.11f45ac7-fec0-4bb9-9002-f36bc37dd310"
-      }
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "EDITOR_STATE": {
     "allProjectFiles": {
-      "56843e2e-6d05-4495-a074-7f165cca828c": {
-        "id": "56843e2e-6d05-4495-a074-7f165cca828c",
+      "b9bb850f-8a74-40a8-9f11-b17df0053409": {
+        "id": "b9bb850f-8a74-40a8-9f11-b17df0053409",
         "parent": null,
         "name": "chineseanimal.py",
         "type": "PYTHON_LAMBDA",
@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "chineseanimal.py",
         "cursor": {
-          "lineNumber": 197,
-          "column": 37
+          "lineNumber": 40,
+          "column": 1
         },
         "config": {
           "runtime": "python3.8",
@@ -28,23 +28,13 @@
             "config": {}
           }
         ],
-        "lastUpdated": 1623528642562
-      },
-      "78b745bc-bf18-4af9-b147-0a626b6caaf4": {
-        "id": "78b745bc-bf18-4af9-b147-0a626b6caaf4",
-        "parent": null,
-        "name": "requirements.txt",
-        "type": "TEXT_FILE",
-        "isDirectory": false,
-        "children": [],
-        "isRemovable": true,
-        "filePath": "requirements.txt"
+        "lastUpdated": 1623532628316
       }
     },
     "openFiles": [
-      "56843e2e-6d05-4495-a074-7f165cca828c"
+      "b9bb850f-8a74-40a8-9f11-b17df0053409"
     ],
-    "currentFileId": "56843e2e-6d05-4495-a074-7f165cca828c",
+    "currentFileId": "b9bb850f-8a74-40a8-9f11-b17df0053409",
     "resources": {
       "alexaSK11f45ac7fec04bb99002f36bc37dd310": {
         "name": "alexaSK11f45ac7fec04bb99002f36bc37dd310",
@@ -74,14 +64,7 @@
       }
     ],
     "packageJSON": {
-      "dependencies": {
-        "ask-sdk-core": {
-          "name": "ask-sdk-core",
-          "version": "1.11.0",
-          "dev": true,
-          "language": "python"
-        }
-      }
+      "dependencies": {}
     }
   },
   "PROJECT_META": {
@@ -93,7 +76,7 @@
     "platform": "AWS",
     "language": "python",
     "platformRegions": {},
-    "lastSave": 1623530270217
+    "lastSave": 1623532715635
   },
   "VCS_STATE": {
     "provider": "GitHub",
